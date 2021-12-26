@@ -1,0 +1,24 @@
+{
+    "name":"Mohanraj S",
+    "age":"25",
+    "dob":"10.05.1995",
+
+    "motherTongue":"Tamil",
+    "placeOfLiving":"Namakkal,TamilNadu",
+    "parentName":"Selvam and Maheswari",
+
+    "placeOfStudy":"PSG College of Technology, Coimbatore, TN-641004",
+    "qualification":"B.E (MECHANICAL ENGINEERING)",
+    "yearOfPassing":"2019",
+    "cgpa":"6.02",
+    "finalYearProject":"Machinability and Wear studies on Co-Continuous ceramic composite",
+
+    "experience":"Worked as an E-Commerce (Asst.) for 6 months (June-Dec-2021) in the K.K.P Fine Linen Pvt Ltd, Namakkal.",
+    "technicalSkills":"JavaScript,HTML,CSS,Node.js,ReactJs,MongoDB",
+    "personalSkills":"Good oral and written communication",
+    "fieldOfInterest":"Back-End Developer",
+
+    "hobbies": "Listening to Music, Calligraphy",
+    "residentialAddress":"State Bank Colony, Trichy road, Namakkal-637001.",
+    "emailId":"smohan1029@gmail.com"
+}
